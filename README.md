@@ -92,7 +92,7 @@ An interactive student directory and recruitment-brochure builder with editing a
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/njanorupavam/njanorupavam/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/njanorupavam/njanorupavam/gh-pages/github-contribution-grid-snake-dark.svg)
 
 </div>
 
